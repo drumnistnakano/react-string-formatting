@@ -13,7 +13,7 @@ function App() {
     <>
       あなたの名前は何ですか？
       <br />
-      <div className="inline-flex">
+      <div className="flex items-center inline-flex">
         <div className="text-lg">yoshiyuki</div>です
       </div>
     </>
