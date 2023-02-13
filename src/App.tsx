@@ -13,7 +13,9 @@ function App() {
     <>
       あなたの名前は何ですか？
       <br />
-      <div className="text-lg">yoshiyuki</div>です
+      <div className="inline-flex">
+        <div className="text-lg">yoshiyuki</div>です
+      </div>
     </>
   );
 
